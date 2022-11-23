@@ -1,5 +1,5 @@
 - hosts: ALL
-  user: iurii
+  user: root
   become: true
   become_method: sudo
   gather_facts: no
