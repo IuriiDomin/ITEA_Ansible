@@ -1,4 +1,4 @@
-- hosts: ALL
+- hosts: all
   user: root
   become: true
   become_method: sudo
